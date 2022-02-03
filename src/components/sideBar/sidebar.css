@@ -1,0 +1,70 @@
+.App{
+   flex: 3;
+   margin: 6rem;
+   /* background-color:rgb(146, 155, 155); */
+   width: 260px;
+   height: 29rem;
+   box-shadow: 0  0.5rem 0.5rem gray;
+   border: 2px solid transparent !important;
+   /* scroll-behavior: auto; */
+   padding: 1rem;
+   margin-left: 1rem;
+   /* margin-top: 6rem; */
+   overflow: hidden auto;
+   overflow-x: hidden;
+   overflow-y: auto;
+   position: sticky;
+   position: fixed;
+   height: calc(85vh - 50px);
+    /* max-width: 23rem; */
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: rgb(179, 179, 179);
+}
+
+.App h6{
+    font-size: 1rem;
+    padding-bottom: 1rem;
+}
+
+#topping{
+    margin: 0.5rem;
+}
+
+.type1 {
+    font-size: 0.9rem;
+    cursor: pointer;
+}
+
+h3 {
+    justify-content: center;
+    position: sticky;
+}
+
+.sideIcon {
+    font-size: 10px;
+    margin-top: 1px;
+    cursor: pointer;
+}
+
+.type2{
+    font-size: 0.9rem;
+    cursor: pointer;
+}
+.type3{
+    font-size: 0.9rem;
+    cursor: pointer;
+}
+.type4{
+    font-size: 0.9rem;
+    cursor: pointer;
+}

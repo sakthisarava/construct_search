@@ -1,0 +1,73 @@
+.s3page{
+    /* position: fixed; */
+    display: flex;
+}
+
+.content {
+    position: fixed;
+}
+
+.s3page h2 {
+    margin-top: 7rem;
+    margin-left: 2rem;
+}
+
+h6 {
+    font-size: 12px;
+    margin: 5px;
+    margin-left: 2rem;
+}
+
+.s3static {
+    margin-top: 17rem;
+    font-size: 30px;
+    margin-left: 20rem;
+}
+
+.s3content {
+    padding: 5px;
+    font-size: 10px;
+    margin-left: 3rem;
+    background: linear-gradient(to right, #454b50 68%, #83c91b 32%);
+}
+
+.btn {
+    margin: 1px;
+    padding: 3px;
+    margin-left: 2rem;
+    background-color: white;
+    border: transparent solid 1px;
+    border-color: darkgrey ;
+    border-radius: 5px;
+}
+
+.btn1 {
+    margin: 10px;
+    padding: 3px;
+    background-color: white;
+    border: transparent solid 1px;
+    border-color: darkgrey ;
+    border-radius: 5px;
+}
+
+.btn2 {
+    margin: 10px;
+    padding: 3px;
+    background-color: white;
+    border: transparent solid 1px;
+    border-color: darkgrey ;
+    border-radius: 5px;
+}
+
+.s3map{
+    margin-top: 6rem;
+    margin-left:70rem;
+    position: fixed;
+}
+
+.s3map p{
+    /* color: aqua; */
+    font-size: 12px;
+    padding: 0;
+    margin: 0;
+}
